@@ -3,8 +3,8 @@
 ## Install Git
 ```
 git --version
-git config --global user.name "murthy"
-git config --global user.email "support@manifoldailearning.in"
+git config --global user.name "maajid"
+git config --global user.email "youremaild"
 git config --global color.ui=true
 git config --global -l
 git config --global core.autocrlf true
