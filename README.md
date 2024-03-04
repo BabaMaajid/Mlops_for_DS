@@ -52,13 +52,13 @@
 
 ## File/Directory permissions:
 	Observe the output of ls:
-	drwxrwxr-x 2 manifoldailearning manifoldailearning 4096 Nov  7 23:38 testdir
-	-rw-rw-r-- 1 manifoldailearning manifoldailearning 126 Nov  7 23:37 abc.txt
-	-rw-rw-r-- 1 manifoldailearning manifoldailearning 126 Nov  7 23:38 one.txt
+	drwxrwxr-x 2 4096 maajid maajid Nov  7 23:38 testdir
+	-rw-rw-r-- 1 maajid maajid  126 Nov  7 23:37 abc.txt
+	-rw-rw-r-- 1 maajid maajid  126 Nov  7 23:38 one.txt
 
 	drwxrwxr-x or -rw-rw-r--   --> Read/Write/Execute Permission for a file or a directory in linux
-	(1st value)manifoldailearning - owner of the file/directory
-	(2nd value)manifoldailearning - group who owns file/directory 
+	(1st value)maajid - owner of the file/directory
+	(2nd valuemaajid - group who owns file/directory 
 	how to update the owner & group for a file/dir 
 
 	chown ( change owner ) is the command to update the owners of dir/file 
